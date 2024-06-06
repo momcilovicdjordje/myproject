@@ -1,0 +1,15 @@
+/* Style all medium svg icons */
+.svgm {
+    padding: 10px;
+    height: 35px;
+    width: 35px;
+    text-decoration: none;
+    border-radius: 50%;
+    background: black;
+    border: 1px solid black;
+}
+
+/* Add a hover effect */
+.svgm:hover {
+    opacity: 0.7;
+}
